@@ -3,8 +3,8 @@
     .version = "0.0.1",
     .dependencies = .{
         .wav = .{
-            .url = "https://github.com/veloscillator/zig-wav/archive/52e9d989ec8d148c721f49b6bf3a292b50de827d.tar.gz",
-            .hash = "12202f6f6a2a551385f599f1e4f8249182a89c998ed47298c92833bee4e2de4408ec",
+            .url = "https://github.com/veloscillator/zig-wav/archive/69ef67061fc9ecb87d0b3d21287701aefae2ec09.tar.gz",
+            .hash = "122059363a78545856a9923f0a5481e601383433088060f9e869ec345b7fe4a539b9",
         }
     },
 }
